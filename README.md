@@ -1,0 +1,1 @@
+The current project involves making a recipe website using knowledge of HTML. Skills include using the correct file structures and elements. Learning how link pages and images, as well as presenting the information as clearly as possible.

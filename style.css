@@ -23,4 +23,24 @@ li {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 60px;
+    color: rgb(21, 131, 54);
 }
+
+.main-list { 
+    /* border: 2px solid; */
+    font-size: 50px;
+    width: 6em;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.main-list-items {
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
